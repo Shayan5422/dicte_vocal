@@ -1,0 +1,76 @@
+2025-01-08 17:08:16,322 - ERROR - Error removing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:08:16,512 - INFO - Registered hotkeys: Start - shift+alt+r, Stop - shift+alt+s
+2025-01-08 17:08:22,110 - INFO - Recording started.
+2025-01-08 17:08:26,326 - INFO - Recording stopped.
+2025-01-08 17:08:56,062 - INFO - All existing hotkeys removed.
+2025-01-08 17:08:56,064 - INFO - Registered hotkeys: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:10:34,992 - INFO - Starting application
+2025-01-08 17:10:34,993 - INFO - Initializing SystemTrayApp
+2025-01-08 17:10:35,014 - INFO - Loading hotkeys from config
+2025-01-08 17:10:35,015 - INFO - Loaded hotkeys: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:10:35,016 - INFO - Registering hotkeys
+2025-01-08 17:10:35,017 - ERROR - Error removing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:10:35,249 - INFO - Registered start hotkey: alt+r
+2025-01-08 17:10:35,250 - INFO - Registered stop hotkey: shift+alt+s
+2025-01-08 17:10:35,250 - INFO - Creating system tray icon
+2025-01-08 17:10:35,355 - INFO - SystemTrayApp initialized successfully
+2025-01-08 17:10:35,356 - INFO - Running application
+2025-01-08 17:10:42,285 - INFO - Start recording hotkey pressed
+2025-01-08 17:10:42,294 - INFO - Starting recording
+2025-01-08 17:10:42,294 - INFO - Recording started.
+2025-01-08 17:10:42,296 - INFO - AudioRecorder thread started
+2025-01-08 17:10:44,643 - INFO - Stop recording hotkey pressed
+2025-01-08 17:10:44,653 - INFO - Stopping recording
+2025-01-08 17:10:44,932 - INFO - Saving audio data to temporary file: C:\Users\Shayan\AppData\Local\Temp\tmpe5dnmp2b.wav
+2025-01-08 17:10:44,945 - INFO - Sending audio file to backend: C:\Users\Shayan\AppData\Local\Temp\tmpe5dnmp2b.wav
+2025-01-08 17:10:44,949 - INFO - Attempting to log in to backend
+2025-01-08 17:10:46,090 - INFO - Login successful
+2025-01-08 17:10:47,800 - INFO - Transcription received from backend
+2025-01-08 17:10:47,802 - INFO - Transcription received, copying to clipboard
+2025-01-08 17:10:47,806 - INFO - Temporary file C:\Users\Shayan\AppData\Local\Temp\tmpe5dnmp2b.wav removed
+2025-01-08 17:10:47,808 - INFO - Recording stopped.
+2025-01-08 17:10:47,845 - INFO - Transcription pasted using Ctrl+V
+2025-01-08 17:10:57,776 - INFO - Opening settings dialog
+2025-01-08 17:10:57,777 - INFO - Opening SettingsDialog
+2025-01-08 17:11:14,160 - INFO - New hotkeys set: Start - shift+alt+r, Stop - shift+alt+s
+2025-01-08 17:11:14,169 - INFO - Registering hotkeys
+2025-01-08 17:11:14,170 - INFO - All existing hotkeys removed.
+2025-01-08 17:11:14,171 - INFO - Registered start hotkey: shift+alt+r
+2025-01-08 17:11:14,175 - INFO - Registered stop hotkey: shift+alt+s
+2025-01-08 17:11:14,176 - INFO - Saving hotkeys to config
+2025-01-08 17:11:14,180 - INFO - Hotkeys saved successfully
+2025-01-08 17:11:14,194 - INFO - Hotkeys updated through settings dialog
+2025-01-08 17:12:44,341 - INFO - Starting application
+2025-01-08 17:12:44,341 - INFO - Initializing SystemTrayApp
+2025-01-08 17:12:44,360 - INFO - Loading hotkeys from config
+2025-01-08 17:12:44,360 - INFO - Loaded hotkeys: Start - shift+alt+r, Stop - shift+alt+s
+2025-01-08 17:12:44,360 - INFO - Registering hotkeys
+2025-01-08 17:12:44,360 - ERROR - Error clearing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:12:44,382 - INFO - Creating system tray icon
+2025-01-08 17:12:44,383 - INFO - System tray menu created
+2025-01-08 17:12:44,429 - INFO - SystemTrayApp initialized successfully
+2025-01-08 17:12:44,429 - INFO - Running application
+2025-01-08 17:12:49,302 - INFO - Opening settings dialog
+2025-01-08 17:12:53,569 - INFO - New hotkeys set: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:12:53,581 - INFO - New hotkeys set: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:12:53,583 - INFO - Registering hotkeys
+2025-01-08 17:12:53,583 - ERROR - Error clearing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:12:53,584 - INFO - Hotkeys saved successfully
+2025-01-08 17:12:53,594 - INFO - Hotkeys updated through settings dialog
+2025-01-08 17:13:09,700 - INFO - Starting application
+2025-01-08 17:13:09,701 - INFO - Initializing SystemTrayApp
+2025-01-08 17:13:09,728 - INFO - Loading hotkeys from config
+2025-01-08 17:13:09,730 - INFO - Loaded hotkeys: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:13:09,731 - INFO - Registering hotkeys
+2025-01-08 17:13:09,731 - ERROR - Error clearing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:13:09,752 - INFO - Creating system tray icon
+2025-01-08 17:13:09,753 - INFO - System tray menu created
+2025-01-08 17:13:09,787 - INFO - SystemTrayApp initialized successfully
+2025-01-08 17:13:09,787 - INFO - Running application
+2025-01-08 17:13:14,057 - INFO - Opening settings dialog
+2025-01-08 17:13:16,851 - INFO - New hotkeys set: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:13:16,858 - INFO - New hotkeys set: Start - alt+r, Stop - shift+alt+s
+2025-01-08 17:13:16,860 - INFO - Registering hotkeys
+2025-01-08 17:13:16,861 - ERROR - Error clearing hotkeys: '_KeyboardListener' object has no attribute 'blocking_hotkeys'
+2025-01-08 17:13:16,863 - INFO - Hotkeys saved successfully
+2025-01-08 17:13:16,872 - INFO - Hotkeys updated through settings dialog
