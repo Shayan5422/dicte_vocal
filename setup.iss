@@ -2,7 +2,7 @@
 AppName=MedTranscribe
 AppVersion=1.0
 AppPublisher=Alasuite
-AppPublisherURL=https://shaz.ai
+AppPublisherURL=https://www.alasuite.com/
 WizardStyle=modern
 DefaultDirName={autopf}\MedTranscribe
 DefaultGroupName=MedTranscribe
